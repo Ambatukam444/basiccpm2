@@ -1,0 +1,282 @@
+{
+    "data": {
+        "WalletData": {
+            "Coins": 0,
+            "Money": 25000
+        },
+        "PlayerStorage": {
+            "Wheels": [],
+            "MatTypes": 3,
+            "Calipers": 0,
+            "Brakes": 0,
+            "EquipmentsMale": {
+                "bag": [],
+                "beard": [],
+                "cap": [],
+                "face": [],
+                "glasses": [],
+                "gloves": [],
+                "hair": [],
+                "mask": [],
+                "pants": [],
+                "shoes": [],
+                "top": [],
+                "SelectedEquipments": []
+            },
+            "EquipmentsFemale": {
+                "bag": [],
+                "beard": [],
+                "cap": [],
+                "face": [
+                    2
+                ],
+                "glasses": [],
+                "gloves": [],
+                "hair": [
+                    0
+                ],
+                "mask": [],
+                "pants": [
+                    1
+                ],
+                "shoes": [
+                    0
+                ],
+                "top": [
+                    3
+                ],
+                "SelectedEquipments": [
+                    0,
+                    2,
+                    -2,
+                    -2,
+                    -2,
+                    3,
+                    -2,
+                    -2,
+                    1,
+                    0,
+                    -2
+                ]
+            },
+            "Other": {
+                "Flags": {},
+                "Animations": 0,
+                "SelectedAnimations": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "Eggs": [
+                    0,
+                    0
+                ],
+                "LevelsDoneTime": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "Homes": 0,
+                "Slots": 3,
+                "Main": [
+                    13,
+                    -1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "Purchased": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "Camera": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "LocalID": "QC133718",
+            "Name": "Player#175"
+        },
+        "EngineKits": {
+            "Inventory": []
+        },
+        "InventoryData": {
+            "Inventory": []
+        },
+        "PlatesData": {
+            "PlateData": {
+                "1": {
+                    "frontCarUId": null,
+                    "plateId": 1,
+                    "rearCarUId": null
+                },
+                "2": {
+                    "frontCarUId": null,
+                    "plateId": 2,
+                    "rearCarUId": null
+                },
+                "3": {
+                    "frontCarUId": null,
+                    "plateId": 3,
+                    "rearCarUId": null
+                },
+                "4": {
+                    "frontCarUId": null,
+                    "plateId": 4,
+                    "rearCarUId": null
+                },
+                "5": {
+                    "frontCarUId": null,
+                    "plateId": 5,
+                    "rearCarUId": null
+                },
+                "6": {
+                    "frontCarUId": null,
+                    "plateId": 6,
+                    "rearCarUId": null
+                }
+            },
+            "Plate1": [],
+            "Plate2": [],
+            "Plate3": [],
+            "Plate4": [],
+            "Plate5": [],
+            "Plate6": []
+        },
+        "FriendsCollection": {
+            "FriendsID": []
+        }
+    }
+}
